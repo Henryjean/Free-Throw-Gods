@@ -1,3 +1,3 @@
-Code to make this chart: 
+Code to make: 
 
-[Chart](https://github.com/Henryjean/Free-Throw-Gods/blob/master/FreeThrowKings.png)
+[](https://github.com/Henryjean/Free-Throw-Gods/blob/master/FreeThrowKings.png)
